@@ -1,1 +1,3 @@
-# Stopwatch-
+STOPWATCH 
+A stopwatch is a precise time-tracking tool designed to measure elapsed time accurately. It includes essential controls such as Start, which begins the timer; Pause, which temporarily stops the countdown without losing progress; and Reset, which clears the timer back to zero. The Restart feature allows users to start timing again immediately from zero with a single action. It also includes a Lap function, which records intermediate times without stopping the main timer, making it useful for tracking multiple intervals in one session. The Reset Lap option clears all recorded lap times while keeping the stopwatch ready for fresh measurements. This tool is ideal for workouts, sports training, studying, cooking, and any activity where accurate time tracking is needed.
+LINK :https://incomparable-piroshki-42003f.netlify.app/
